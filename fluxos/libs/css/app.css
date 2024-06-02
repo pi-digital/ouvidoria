@@ -1142,7 +1142,7 @@ select {
   -webkit-border-radius: 1000px;
   border-radius: 1000px;
   font-weight: bold;
-  background: #A34C00;
+  background: #0C326F;
   padding: 0.23077em 0.69231em;
   cursor: default;
   color: #fff;
@@ -1159,7 +1159,7 @@ select {
   position: relative;
   padding: 0.84615em 1.61538em 0.92308em 0.84615em;
   font-size: 1.07692em;
-  background-color: #A34C00;
+  background-color: #0C326F;
   border-color: #703400;
   color: #fff;
 }
@@ -1685,7 +1685,7 @@ td {
 /* Default Link Styles */
 /* line 152, ../../../../../../../../Ruby25-x64/lib/ruby/gems/2.5.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_type.scss */
 a {
-  color: #A34C00;
+  color: #0C326F;
   text-decoration: none;
   line-height: inherit;
 }
@@ -3715,7 +3715,7 @@ table ul {
 /* line 374, ../../sass/_export.scss */
 .nav-bar a:hover {
   background: rgba(163, 76, 0, 0.1);
-  color: #A34C00;
+  color: #0C326F;
 }
 /* line 379, ../../sass/_export.scss */
 .nav-bar .biz-ex-sub-page a {
@@ -4147,7 +4147,7 @@ body.off-canvas {
 }
 /* line 697, ../../sass/_export.scss */
 .biz-ex-search-option.biz-ex-active {
-  color: #A34C00;
+  color: #0C326F;
 }
 /* line 700, ../../sass/_export.scss */
 .biz-ex-search-option.biz-ex-is-hidden {
@@ -4190,7 +4190,7 @@ body.off-canvas {
   border-radius: 0;
   border-color: transparent;
   background: rgba(163, 76, 0, 0.05);
-  color: #A34C00;
+  color: #0C326F;
 }
 
 /* line 735, ../../sass/_export.scss */
@@ -4255,7 +4255,7 @@ body.off-canvas {
 }
 /* line 788, ../../sass/_export.scss */
 .no-touch .bix-ex-figure-panel:hover {
-  border-color: #A34C00;
+  border-color: #0C326F;
 }
 /* line 791, ../../sass/_export.scss */
 .no-touch .bix-ex-figure-panel:hover .biz-ex-overview-process {
@@ -4394,7 +4394,7 @@ body.off-canvas {
 
 /* line 893, ../../sass/_export.scss */
 .biz-ex-navigate:hover .biz-ex-expand-button-span {
-  color: #A34C00;
+  color: #0C326F;
 }
 
 /* line 897, ../../sass/_export.scss */
@@ -4588,7 +4588,7 @@ body.off-canvas {
 
 /* line 1056, ../../sass/_export.scss */
 .biz-ex-performer-header {
-  border-bottom: 1px solid #A34C00;
+  border-bottom: 1px solid #0C326F;
   padding: 10px 0 10px 10px;
 }
 
@@ -5309,7 +5309,7 @@ img.biz-ex-diagram-image {
 /* line 1659, ../../sass/_export.scss */
 .biz-ex-active.active .biz-ex-ind-container {
   border-right: solid 1px transparent;
-  color: #A34C00;
+  color: #0C326F;
 }
 
 /* line 1664, ../../sass/_export.scss */
@@ -5549,14 +5549,14 @@ img.biz-ex-diagram-image {
 
 /* line 1860, ../../sass/_export.scss */
 .biz-ex-active.active > a {
-  color: #A34C00 !important;
+  color: #0C326F !important;
   -webkit-transition: border-top-color 1s;
   -moz-transition: border-top-color 1s;
 }
 
 /* line 1866, ../../sass/_export.scss */
 .biz-ex-active-ancestors.active-ancestors > a {
-  color: #A34C00;
+  color: #0C326F;
 }
 
 /* line 1870, ../../sass/_export.scss */
@@ -5583,7 +5583,7 @@ img.biz-ex-diagram-image {
   line-height: 1;
   white-space: nowrap;
   padding: .25em .625em;
-  border: 1px solid #A34C00;
+  border: 1px solid #0C326F;
   background-color: transparent;
   font-size: 0.875em;
   font-weight: 300;
@@ -6090,7 +6090,7 @@ img.biz-ex-diagram-image {
 
 /* line 2308, ../../sass/_export.scss */
 .lt-ie9 .biz-ex-is-positioned {
-  border: 5px solid #A34C00 !important;
+  border: 5px solid #0C326F !important;
 }
 
 /* line 2312, ../../sass/_export.scss */
@@ -6581,7 +6581,7 @@ img.biz-ex-diagram-image {
 /* line 2727, ../../sass/_export.scss */
 .nav-hierarchy .biz-ex-hierarchy-root a:hover {
   background: rgba(163, 76, 0, 0.1);
-  color: #A34C00;
+  color: #0C326F;
 }
 /* line 2732, ../../sass/_export.scss */
 .nav-hierarchy .biz-ex-hierarchy-root ul {
@@ -6806,7 +6806,7 @@ img.biz-ex-diagram-image {
   background: rgba(0, 0, 0, 0.1);
   top: 0;
   left: 0;
-  border: solid 1px #A34C00;
+  border: solid 1px #0C326F;
 }
 
 /* line 162, ../../sass/_zoomer.scss */
