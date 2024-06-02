@@ -3642,6 +3642,7 @@ table ul {
   background: url("../img/Ouvidata.png") no-repeat;
   background-size: contain;
   background-position: bottom;
+  margin: 5px 0 5px 38px;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* line 304, ../../sass/_export.scss */
