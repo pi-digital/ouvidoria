@@ -990,23 +990,6 @@
             {{/if}}
         </div>
         <nav class="hide-for-small large-5 columns">
-            <ul class="cf biz-ex-user-options">
-                {{if PublishWebAttributes.showPerformersList}}
-                <li>
-                    <a href="dialog/performers" class="biz-ex-icon-performers biz-ex-navigate" title="${Bizagi.Util.getResource('performers')}"></a>
-                </li>
-                {{/if}}
-                <li>
-                    <a href="fullscreen" class="biz-ex-full-screen-modifier biz-ex-navigate" title="${Bizagi.Util.getResource('fullscreen')}">
-                        <i class="bz-icon bz-icon-16 bz-icon-maximize-outline"></i>
-                    </a>
-                </li>
-                {{if !Bizagi.AppModel.personalized}}
-                <li>
-                    <a href="http://www.bizagi.com/" target="_blank" class="biz-ex-bizagi">${Bizagi.Util.getResource('visitBizagi')}</a>
-                </li>
-                {{/if}}
-            </ul>
         </nav>
     </div>
 </script>
